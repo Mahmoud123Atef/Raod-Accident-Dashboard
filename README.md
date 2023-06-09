@@ -13,13 +13,13 @@ Creating a Road Accident Dashboard for year 2021 and 2022.
 	      👉 Relation between casualties by area/location & day/night.
 	
 ## 🎯Data gathering & cleaning:
-🌟 Imported the excel file and performed activities like removing duplicates, fixing errors, and transforming the data into an easily analysed format. The first step in any data analysis project is to clean the data. Because the raw data we receive consists of errors which might affect the insights drawn.
-🌟 There was a misspelling in the column with name [Junction_Control], the misspelled value was (Auto traffic sigl) so i corrected it to (Auto traffic signal).
-🌟 Also there was a misspelling in the column with the name [Accident_Severity], the misspelled value was (Fetal) so i corrected it to (Fatal).
+	🌟 Imported the excel file and performed activities like removing duplicates, fixing errors, and transforming the data into an easily analysed format. The first step in any data analysis project is to clean the data. Because the raw data we receive consists of errors which might affect the insights drawn.
+	🌟 There was a misspelling in the column with name [Junction_Control], the misspelled value was (Auto traffic sigl) so i corrected it to (Auto traffic signal).
+	🌟 Also there was a misspelling in the column with the name [Accident_Severity], the misspelled value was (Fetal) so i corrected it to (Fatal).
 
 ## 🎯Data Processing:
-🌟 I want to show the trend line for current year and previous year casualties.
-🌟 I created a new column and give it a name [Month] to specify the months, i did the same steps for the [Year] column as well.
+	🌟 I want to show the trend line for current year and previous year casualties.
+	🌟 I created a new column and give it a name [Month] to specify the months, i did the same steps for the [Year] column as well.
 
 ## 🎯Questions asked:
      👉 Compare the the accident severity, Is it Fatal, Serious or Slight.
