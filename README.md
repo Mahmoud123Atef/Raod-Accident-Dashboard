@@ -4,13 +4,13 @@
 Creating a Road Accident Dashboard for year 2021 and 2022.
 
 ## 🎯Objective:
-🌟Clients want to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insights on the below requirements :
-      👉 Primary KPI's --> Total Casualties & percentages of total with respect to accident severity and maximum casualties by type of vehicle.
-      👉 Secondary KPI's --> Total casualties with respect to vehicle type.
-      👉 Monthly trend showing comparison of casualties for current and previous year.
-      👉 Maximum casualties by road type.
-      👉 Distribution of total casualties by road surface.
-      👉 Relation between casualties by area/location & day/night.
+	🌟Clients want to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insights on the below requirements :
+	      👉 Primary KPI's --> Total Casualties & percentages of total with respect to accident severity and maximum casualties by type of vehicle.
+	      👉 Secondary KPI's --> Total casualties with respect to vehicle type.
+	      👉 Monthly trend showing comparison of casualties for current and previous year.
+	      👉 Maximum casualties by road type.
+	      👉 Distribution of total casualties by road surface.
+	      👉 Relation between casualties by area/location & day/night.
 	
 ## 🎯Data gathering & cleaning:
 🌟 Imported the excel file and performed activities like removing duplicates, fixing errors, and transforming the data into an easily analysed format. The first step in any data analysis project is to clean the data. Because the raw data we receive consists of errors which might affect the insights drawn.
@@ -36,7 +36,7 @@ Creating a Road Accident Dashboard for year 2021 and 2022.
      👉 Casualties in the urban areas are higher than that in rural areas.
 
 ## 🎯Conclusion:
-👉 Finally based on the insights, to decrease the number of casualties we can suggest to stakeholders consider the following:
-     💊 We should conduct awareness campaigns for car drivers advicing them not to exceed the speed limits in order to reduce the number of accidents.
-     💊 We have to talk with the relevant authorities concerned with road safety to improve the conditions of the roads more specially the Single carriageway one.
-     💊 Improving roads in urban and rural areas alike, with setting up traffic and guidance signs that help drivers avoid rugged areas and bumps.
+     👉 Finally based on the insights, to decrease the number of casualties we can suggest to stakeholders consider the following:
+        💊 We should conduct awareness campaigns for car drivers advicing them not to exceed the speed limits in order to reduce the number of accidents.
+        💊 We have to talk with the relevant authorities concerned with road safety to improve the conditions of the roads more specially the Single carriageway one.
+        💊 Improving roads in urban and rural areas alike, with setting up traffic and guidance signs that help drivers avoid rugged areas and bumps.
