@@ -29,11 +29,11 @@ Creating a Road Accident Dashboard for year 2021 and 2022.
      👉 Determine which location that get the most number of casualties and what was light condition?
 
 ## 🎯Key insights:
-   👉 The most injuries caused by road accidents was slight and not dangerous.
-   👉 Cars poses the highest casualties number between all other vehicle types.
-   👉 Most accidents took place on the Single carriageway roads and so the most number of casualties.
-   👉 Dry surface roads has the most casualties as well.
-   👉 Casualties in the urban areas are higher than that in rural areas.
+     👉 The most injuries caused by road accidents was slight and not dangerous.
+     👉 Cars poses the highest casualties number between all other vehicle types.
+     👉 Most accidents took place on the Single carriageway roads and so the most number of casualties.
+     👉 Dry surface roads has the most casualties as well.
+     👉 Casualties in the urban areas are higher than that in rural areas.
 
 ## 🎯Conclusion:
 👉 Finally based on the insights, to decrease the number of casualties we can suggest to stakeholders consider the following:
