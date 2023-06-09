@@ -1,7 +1,7 @@
 # Raod-Accident-Dashboard
 Creating a Road Accident Dashboard for year 2021 and 2022.
-![image](![dashboard](https://github.com/Mahmoud123Atef/Raod-Accident-Dashboard/assets/108003960/d2f7faed-95dd-4cdd-a274-15b86ae0756c.png)
-)
+![dashboard](https://github.com/Mahmoud123Atef/Raod-Accident-Dashboard/assets/108003960/d2f7faed-95dd-4cdd-a274-15b86ae0756c.png)
+
 ## 🎯Objective:
 🌟Clients want to create a Road Accident Dashboard for year 2021 and 2022 so that they can have insights on the below requirements :
      👉 Primary KPI's --> Total Casualties & percentages of total with respect to accident severity and maximum casualties by type of vehicle.
